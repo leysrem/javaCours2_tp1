@@ -32,5 +32,3 @@ public class Turtle extends Animal implements Tetrapoda, Omnivorus {
   	} 
   	
   }
-
-}
